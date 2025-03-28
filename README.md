@@ -13,7 +13,7 @@ Follow these steps to set up the backend:
 1. **Clone the Backend Repository**  
    Clone the backend repository to your local machine:
    ```bash
-   git clone https://github.com/kgeorge1234/TaskManagerBackend#
+   git clone https://github.com/kgeorge1234/TaskManagerBackend
    ```
 
 2.  **Install Dependencies**  
