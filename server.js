@@ -13,7 +13,7 @@ let tasks = [
     { id: "2", title: "Workout", description: "do workout", dueDate: "2025-03-27"},
 ];
   
-// GET endpoint return all tasks
+// GET endpoint return all tasks.
 app.get("/api/tasks", (req, res) => {
     res.status(200).json(tasks);
 });
