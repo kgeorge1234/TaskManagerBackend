@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Before running the backend, make sure you have **Node.js (latest version)** installed.
+Before running the backend, make sure you have **Node.js (latest version)** and npm installed.
 
 ---
 
